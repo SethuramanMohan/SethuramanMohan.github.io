@@ -2,7 +2,7 @@
 
 Personal portfolio website for **Sethuraman Mohan**, HR Consultant, Solution Specialist & Senior Manager (AGM) with 13+ years in HCM, SaaS, and enterprise HR technology.
 
-🌐 **Live site:** https://sethuraman-mohan.github.io/
+🌐 **Live site:** [https://sethuraman-mohan.github.io/](https://sethuramanmohan.github.io/)
 
 ---
 
